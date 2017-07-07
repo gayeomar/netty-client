@@ -1,4 +1,4 @@
-package com.nettyclient;
+package com.fdc.ucom.ref.netty.client;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class DiscardclientApplicationTests {
+public class NettyClientApplicationTests {
 
 	@Test
 	public void contextLoads() {
